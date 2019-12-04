@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/mccolnc1/Documents/Project/SOCOM/heo_architecture/lib'
+let g:netrw_dirhist_2='/Users/mccolnc1/Documents/Project/MOSAICS/MOSAICS/elk'
+let g:netrw_dirhist_3='/Users/mccolnc1/Documents/Project/MOSAICS/MOSAICS'
+let g:netrw_dirhist_4='/Users/mccolnc1/Documents/Project/SOCOM/heo_architecture/video_interface'
+let g:netrw_dirhist_5='/Users/mccolnc1/Documents/Project/SOCOM/heo_architecture/audio_server'
+let g:netrw_dirhist_6='/Users/mccolnc1/Documents/Project/MOSAICS/MOSAICS/elk/MosaicsAlerts'
+let g:netrw_dirhist_7='/Users/mccolnc1/Documents/Project/SOCOM/heo_architecture/video_interface'
