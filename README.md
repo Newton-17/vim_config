@@ -1,7 +1,6 @@
 # vim_config
 
-
-##Bundles & Credit
+## Bundles & Credit
 
 * Auto-Pairs : https://github.com/jiangmiao/auto-pairs
 * better-indent-support-for-php-with-html: https://github.com/captbaritone/better-indent-support-for-php-with-html
