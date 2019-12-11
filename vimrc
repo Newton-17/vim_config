@@ -53,3 +53,6 @@ autocmd FileType html set omnifunc=htmlcomplete#CompleteTags
 
 " Set Backspaces
 set backspace=indent,eol,start
+
+" Turn Off Bell
+set belloff=all
